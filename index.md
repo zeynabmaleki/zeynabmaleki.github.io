@@ -3,7 +3,7 @@
 ### Specifications :
 + Born: 1379/4/2
 + Gender: Female 
-+ Contact number: 09302720706
++ Contact number: 
 
 ---
 ### Educational background : 
