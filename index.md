@@ -1,5 +1,5 @@
 <h1>Zeynab Maleki Rad</h1>
-site designer
+### Programmer
 ---
 
 ### Specifications :
@@ -81,7 +81,7 @@ news site)
 ---
 ### Ways of communication
 
-+ email : haghverdizahra94@gmail.com
-+  Gate Hub: zahrahaghverdi94@gmail.com
-+ Telegram : zzahrai425
-+ Instagram : zzahrai425
++ email : 
++ Gate Hub:
++ Telegram : 
++ Instagram :
