@@ -1,85 +1,37 @@
-<h1>Zeynab Maleki Rad</h1>
+<img src="zs.jpg">
 
-### Specifications :
-+ Born: 1379/4/2
-+ Gender: Female 
-+ Contact number: 
+## Personal Information
+----
+First name : Zeynab
 
----
-### Educational background : 
+Last name : maleki rad
 
-+ 1397 so far 
+Birth Day : 22 feb 2000
 
-### Computer Engineering :
+Email: mlkizeynab@gmail.com
 
-+ software ، Payame Noor Shahriar University,Masters
-+ GPA: 16
+Tehran,iran
 
----
-### Summary of activities :
+## Languages
+----
+Persian
 
-+ Doing site design projects (Shop, photography,product introduction، Restaurant ،
-news site) 
+English(Intermediate)
 
----
-### Projects :
-+ ۱۳۹۹ 
-- shopping website
-- Front end and Back end
+## Skills
+----
+• Programming Languages(C++,C)
 
-+ ۱۳۹۹ 
-- news site
-- Front end and Back end
+## Education
+----
+Diploma: khadije kobra High school
 
-+ ۱۳۹۹ 
-- Photography site
-- Front end and Back end
+Bachelor of science: Computer Engineering Payam Noor University of Tehran
 
-+ ۱۳۹۹ 
-- Product introduction site
-- Front end and Back end
+## Favorites
+----
+MBA
 
-+ ۱۳۹۹ 
-- Modern restaurant site
-- Front end and Back end
-
----
-### Skills
-
-+ Html5 (100 % )
-+ Css3 ( 100 % )
-+ bootstrap (100 %)
-+ javascript (100 % )
-+ jQuery (100 %)
-+ C (100 % )
-+ C++ (100 % )
-+ Excel (100% )
-+ Word  (100% )
-+ Powerpoint (100% )
-
----
-### Language :
-
-+ Mastery rate (50%)
-
----
-### Behavioral strengths
-
-+ Customer and employer communication
-+  Central strategy (strategic thinking)
-+ Impact / negotiation
-+ Problem solving and decision making
-+ Commitment and motivation to serve
-
----
-### Briefly from me
-
-+ My interest in site design and large projects 
-
----
-### Ways of communication
-
-+ email : 
-+ Gate Hub:
-+ Telegram : 
-+ Instagram :
+## Work Experience
+----
+Now I am a Bachelors student in computer engineering
